@@ -1,11 +1,5 @@
-## Inspiration video tutorial
-[Pure CSS Leaves Animation Effects - Latest Html and CSS Animation Effect Tutorial](https://www.youtube.com/watch?v=fD_AuhsheuU)
+[Halloween Banner Animation Effects | Html CSS Animation Tutorial](https://www.youtube.com/watch?v=BjhzVXuo4QE)
 
-
-## Pumpkin  
-[Halloween Pumpkin Animation | HTML & CSS | Halloween Series](https://www.youtube.com/watch?v=jqlvxuqqYR4)
-
-[CSS Pumpkin + FREE Giveaway!](https://www.youtube.com/watch?v=0kgDRf1G6yo)
 
 ## Text  
 [Glowing Text Animation Effects 2 | Html CSS Animation](https://www.youtube.com/watch?v=1B3FgFXn274)   
