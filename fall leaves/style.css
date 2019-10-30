@@ -147,7 +147,7 @@ img {
     font-size: 10em;
     font-weight: bold;
     position: relative;
-    top: 80px;
+    /* top: 5px; */
     margin: 0;
     padding: 0;
     /* -webkit-animation: animate 10s linear infinite;
