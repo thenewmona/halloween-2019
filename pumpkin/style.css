@@ -73,16 +73,16 @@ body {
 
 .pumpkin #eye {
     width: 0px;
-    height: 0px;    
+    height: 0px;
     position: absolute;
     border-top: 0.8em solid transparent;
     top: 1.8em;
 }
 
 .pumpkin .eyeright {
-        right: 2.4em;
+    right: 2.4em;
     border-left: 2.4em solid #401b03;
-    border-bottom:2.1em solid transparent;
+    border-bottom: 2.1em solid transparent;
     transform: rotate(30deg);
 }
 
@@ -90,5 +90,24 @@ body {
     left: 3.7em;
     transform: rotate(-30deg);
     border-right: 2.4em solid #401b03;
-    border-bottom:2.1em solid transparent;
-    }
+    border-bottom: 2.1em solid transparent;
+}
+
+.pumpkin #mouth {
+    border-bottom: 1em solid #401b03;
+    position: absolute;
+    width: 4m;
+    height: 2em;
+    bottom: 1.5em;
+
+    } 
+   .pumpkin.mouth.right{
+       right:3.5em;
+       border-radius: 0 0 100%;
+
+   }
+   .pumpkin.mouth.left{
+    left:3.5em;
+    border-radius: 0 0 100%;
+    
+}
