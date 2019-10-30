@@ -1,3 +1,8 @@
+*
+@import url(https://fonts.googleapis.com/css?family=Creepster:regular);
+@import url(https://fonts.googleapis.com/css?family=Spicy+Rice:regular);
+@import url(https://fonts.googleapis.com/css?family=Courgette:regular);
+@import url(https://fonts.googleapis.com/css?family=Supermercado+One:regular);
 *{
     margin: 0;
     padding: 0;
@@ -23,26 +28,13 @@ img {
     left: 0;
 }  
 
- /* .set div{
+ /* .set div
     position: absolute;
     display: block;
     
 }  */
 
-.happy {
-    font-family: 'Creepster', cursive;
-    font-size: 10em;
-    font-weight: bold;
-    position: relative;
-    top: 200px;
-    margin: 0;
-    padding: 0;
-    -webkit-animation: animate 5s linear infinite;
-            animation: animate 5s linear infinite;
-    text-align: center;
-    color: #fff;
-    text-shadow: 0 5px 15px rgba(0, 0, 0, .5);
-}
+
 
 
 .set div:nth-child(1){
@@ -125,7 +117,7 @@ img {
 
 }
 
-.happy{
+/* .happy{
     font-family: monospace;    
     font-size: 24px;
     color: bisque;    
@@ -135,15 +127,32 @@ img {
     text-align: center;
     margin-right: -50%;
     transform: translate(-50%, -50%)
-}
+} */
 .fall{
-    font-family: monospace;    
-    font-size: 24px;
-    color: bisque;    
-    position: absolute;
-    top: 80%;
-    left: 50%;
+    font-family:'Courgette', cursive;
+    font-size: 10em;
+    font-weight: bold;
+    position: relative;
+    top: 80px;
+    margin: 0;
+    padding: 0;
+    /* -webkit-animation: animate 10s linear infinite;
+            animation: animate 10s linear infinite; */
     text-align: center;
-    margin-right: -50%;
-    transform: translate(-50%, -50%)
+    color: #fff;
+    text-shadow: 0 15px 15px rgba(173, 219, 7, 0.5);
+}
+.happy {
+    font-family:'Courgette', cursive;
+    font-size: 10em;
+    font-weight: bold;
+    position: relative;
+    top: 80px;
+    margin: 0;
+    padding: 0;
+    /* -webkit-animation: animate 10s linear infinite;
+            animation: animate 10s linear infinite; */
+    text-align: center;
+    color: #fff;
+    text-shadow: 0 15px 15px rgba(240, 158, 7, 0.5);
 }
