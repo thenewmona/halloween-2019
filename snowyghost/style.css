@@ -7,7 +7,11 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
-    background: #424f6f;
+    background-image: linear-gradient(175deg, 
+    #3d1c0c, 
+    rgb(212, 118, 10),
+    rgb(231, 80, 9),
+    #FFF800);
 }
 
 #container {
@@ -15,12 +19,38 @@ body {
     height: 400px;
     padding: 0;
     box-sizing: border-box;
-    background: #424f6f;
+    /* background: #424f6f; */
 }
 h1{
     font-family: 'creepster',sans-serif;
-    color:whitesmoke;
+    position: absolute;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-size: 125px;
+    font-weight: 900;
+    text-decoration: none;
+    color: white;
+    display:block;
+    background-size: 100% 90%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    -ms-background-clip: text;
+    -ms-text-fill-color: transparent;   
+    text-fill-color: transparent;
+    background-image: linear-gradient(25deg, 
+                      #e24d07, 
+                      rgb(238, 14, 14),
+                      rgb(218, 141, 42),
+                      rgb(70, 85, 5));
+  
 
+}
+.snowtacular{
+    top:20px;
+    left:30%;
+    text-align: center;
 }
 *:after,
 *:before {
