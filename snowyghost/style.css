@@ -1,3 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(13, 71, 231);
+}
 .snow{
     background-image:
             url(https://i.imgur.com/uYjnk8N.png),
